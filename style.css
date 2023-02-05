@@ -1,0 +1,16 @@
+h1 {
+    width: 100%;
+    font-size: 40px !important;
+    font-family: monospace;
+    font-weight: 900 !important;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+}
+button {
+    margin: 20px;
+    font-size: 25px !important;
+}
+canvas{
+    border: 2px dashed red;
+    box-shadow: 5px 5px 5px gray;
+}
